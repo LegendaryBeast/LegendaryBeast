@@ -198,8 +198,6 @@
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FFFFFF&width=200&lines=Certifications" />
       <ul>
         <li><b>Introduction to Machine Learning</b><br/><i>Coursera (Stanford University), 2023</i></li>
-        <li><b>Higher Secondary Certificate (HSC)</b><br/><i>Science Group, GPA 5.00/5.00</i></li>
-        <li><b>Secondary School Certificate (SSC)</b><br/><i>Science Group, GPA 5.00/5.00</i></li>
       </ul>
     </td>
   </tr>
