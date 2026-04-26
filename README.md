@@ -207,8 +207,7 @@
 
 <div align="center">
   <!-- Spotify integration -->
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME">
-    <img src="https://novatorem-spotify.vercel.app/api/spotify" alt="Spotify Currently Playing" />
+  <a href="">
   </a>
 </div>
 
