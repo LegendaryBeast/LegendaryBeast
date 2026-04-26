@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=LegendaryBeast&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
 <br/>
@@ -86,12 +86,12 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LegendaryBeast&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LegendaryBeast&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=donut&theme=radical&hide_border=true" alt="Top Languages Donut" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LegendaryBeast&layout=donut&theme=radical&hide_border=true" alt="Top Languages Donut" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Wakatime Activity" width="48%" />
 </div>
 
@@ -99,7 +99,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=LegendaryBeast&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
   </a>
 </div>
 
@@ -110,16 +110,16 @@
   <br/>
   <!-- The Snake eats your contributions! -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LegendaryBeast/LegendaryBeast/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LegendaryBeast/LegendaryBeast/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LegendaryBeast/LegendaryBeast/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LegendaryBeast&theme=radical&hide_border=true" width="100%" />
 </div>
 
 <div align="center">
@@ -198,6 +198,8 @@
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FFFFFF&width=200&lines=Certifications" />
       <ul>
         <li><b>Introduction to Machine Learning</b><br/><i>Coursera (Stanford University), 2023</i></li>
+        <li><b>Higher Secondary Certificate (HSC)</b><br/><i>Science Group, GPA 5.00/5.00</i></li>
+        <li><b>Secondary School Certificate (SSC)</b><br/><i>Science Group, GPA 5.00/5.00</i></li>
       </ul>
     </td>
   </tr>
@@ -205,17 +207,12 @@
 
 <br/>
 
-<div align="center">
-  <!-- Spotify integration -->
-  <a href="">
-  </a>
-</div>
 
 <br/>
 
 <div align="center">
   <!-- Interactive Skillicons for social links! -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://github.com/LegendaryBeast"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
   <a href="mailto:tanzimh46@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
 </div>
